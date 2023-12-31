@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there, old sport!
 
 <!--
 **Szyntos/Szyntos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Szymon Nowak-Trzos, a computer science student at the Faculty of Computer Science at the Stanisław Staszic at the AGH University of Krakow.
